@@ -1,0 +1,7 @@
+{
+  "name": "uid",
+  "description": "generates a unique id",
+  "version": "0.0.1",
+  "keywords": ["game", "uid", "component"],
+  "scripts": ["index.js"]
+}
